@@ -1,0 +1,22 @@
+/* Error and Success messages */
+.success, .error {
+    color: #fff;
+    padding: 5px;
+    margin: 5px 0 15px 0;
+    border-radius: 5px;
+    
+}
+
+/* Success Color */
+.success {
+    background-color: green;
+}
+
+/* Error Color */
+.error {
+    background-color: red; 
+}
+
+body {
+    background: #fff;
+}
